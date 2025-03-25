@@ -1,9 +1,11 @@
-# Miguel Raimond - Google Cyber Security Portfolio
+# Russel Dann Villalon - Google Cyber Security Portfolio
 
 Certificate:
-<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ENRASN5P4CZQ/CERTIFICATE_LANDING_PAGE~ENRASN5P4CZQ.jpeg" alt="View certificate for Miguel Filiol de Raimond, Google Cybersecurity, offered through Coursera. Those who earn the Google Cybersecurity Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for entry-level roles in cybersecurity. They are competent in beginner-level Python, Linux, SQL, Security Information and Event Management (SIEM) tools, and Intrusion Detection Systems (IDS). They know how to identify common cybersecurity risks, threats, and vulnerabilities, as well as the techniques to mitigate."/>
 
-Certificate for Miguel Filiol de Raimond, Google Cybersecurity, offered through Coursera. 
+![Image Cybersecurity](https://github.com/user-attachments/assets/a958f578-47e6-4960-b83b-cd85c186b43c)
+
+
+Certificate for Russel Dann Villalon, Google Cybersecurity, offered through Coursera. 
 
 Those who earn the Google Cybersecurity Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for entry-level roles in cybersecurity. 
 
